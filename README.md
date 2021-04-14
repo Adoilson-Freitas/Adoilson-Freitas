@@ -1,9 +1,10 @@
 #  Adoilson Freitas
 ### Hi 👋
-###### I have a Computer Technician course - in the CETEP - 2016. Student of Systems Analysis and Development at UniCesumar EAD. Currently focused on React.js, Next.js and React Native.
+#### I have a Computer Technician course - in the CETEP - 2016. Student of Systems Analysis and Development at UniCesumar EAD. Currently focused on React.js, Next.js and React Native.
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoilson-freitas&show_icons=true&hide=contribs,prs&theme=dracula) 
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoilson-freitas&show_icons=true&hide=contribs&theme=dracula) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoilson-freitas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
