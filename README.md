@@ -1,6 +1,6 @@
 #  Adoilson Freitas
 ### Hi 👋
-#### I have a Computer Technician course - in the CETEP - 2016. Student of Systems Analysis and Development at UniCesumar EAD. Currently focused on React.js, Next.js and React Native.
+#### Currently focused on React.js, Next.js and React Native.
 
 
 
