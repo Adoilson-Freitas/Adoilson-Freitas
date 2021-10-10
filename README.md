@@ -1,7 +1,5 @@
 #  Adoilson Freitas
 ### Hi 👋
-#### Currently focused on React.js, Next.js and React Native.
-
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoilson-freitas&show_icons=true&hide=contribs&theme=dark) 
